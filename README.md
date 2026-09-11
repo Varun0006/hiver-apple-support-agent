@@ -104,11 +104,10 @@ deactivate
 ```
 
 ### Configuration and data
- you can download the dataset from https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
 The submitted `archive.zip` contains the dataset files used by this project:
 `twcs/twcs.csv` (the full Customer Support on Twitter export) and `sample.csv`
 (a small sample for quick checks). Extract the archive from the repository root
-so that the full dataset is available at:
+so that the full dataset is available at if the archive does not work for you  can download it from [kaggle](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) :
 
 ```text
 twcs/twcs.csv
