@@ -1,0 +1,2002 @@
+[
+  {
+    "conversation_id": "conv_1974725",
+    "message": "how do you turn off the charging notifications it\u2019s 5 am and my phones burning hot and the noti used all my battery",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@584789 We'd like to look into this with you. Could you Direct Message us and let us know what version of iOS is on the device? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1358040",
+    "message": "In other news, my iPhone battery sucks. @115858 https://t.co/0FdLk4Tsif",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@436617 We'd love to help with any battery issues you're having. First, let us know if this guide helps: https://t.co/TpjqFp3jxD",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1982662",
+    "message": "On a perfectly preserved iPhone 6s battery with iOS 10.x lasted 3 days, iOS 11.3 drains battery in less than 20 hours @AppleSupport help!!!",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@586865 We're happy to do everything we can to help. To start, please DM us with the country where you're located. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1580487",
+    "message": "fix the update I shouldn\u2019t be able to watch my battery drain in real time",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@486632 We'd like to look into this with you. Please DM us your current iOS version and current country. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_866648",
+    "message": "Hey @AppleSupport how do I permanently turn off that \u2018live\u2019 thing on my iphones camera? It keeps turning back on and I hate it.",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@325784 You can turn off the Live Photos feature by going to Settings > Camera > Preserve Settings. For more: https://t.co/C3E4kiTqdx",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2285836",
+    "message": "Does anyone else sometimes have this problem with there camera?@AppleSupport https://t.co/36KZXXtAAW",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@421464 That's unexpected. Let us help. Join us in DM and let us know your iOS version. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2692810",
+    "message": "why would the home button and touch id suddenly stop working?",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@756909 We'd like to help! Send us a DM with the country that you are located in to continue. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_323439",
+    "message": "Hi! I have a 2012 Macbook Pro w/o Apple Care. Is there anything that can be done about this? Preferably free of charge.. https://t.co/8dgruk2YqO",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@193025 Thanks for reaching out to us. Please send us a DM and we can chat with you there. Thanks. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1903009",
+    "message": "when I take a screenshot on the new iOS it no longer previews in the bttm left and screen doesnt white flash, is this a bug??",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@567124 Great question. You should still be able to see these things when taking a screenshot. Let's look into this together in DM. https://t.co/GDrqU2kzhr",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_596891",
+    "message": "Hi @AppleSupport please explain why my charger would almost burn down my house? Literally melting. https://t.co/YgCNkrQffS",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@261496 We certainly want to look into this with you. Please send us a DM, and we'll investigate this with you. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2341858",
+    "message": "Okay but seriously @115858 is there a way to undo this update?!!!! Because this shit is TRASH ! R.I.P to my battery life & R.I.P to texting anything with an \u201ci\u201d in it !\ud83d\ude12\ud83d\ude12\ud83d\ude12\ud83d\ude12",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@677395 Thank you for reaching out to us. We know how important it is to have this resolved as quickly as possible. To start, have you updated your device to iOS 11.1.1? You can update your device by following these steps: https://t.co/80YRnjDFDk",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1701019",
+    "message": ", This new update drains my battery waaaaay too fast \ud83d\udc4e\ud83c\udffc",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@515787 You're in the right place for help. To get us started, may we have the device and OS version that we're working with?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1896363",
+    "message": "My battery went from 50% to 35% in less then one minute. WTF",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@565222 We'd be happy to look this over with you. Please meet us in DM so we may gather information, and better assist. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_617289",
+    "message": "hey there ! I updated to iOS 11.1.2 last night & today my device keeps getting restart on its own...it has happened like 10-12 times while i\u2019m using. Help !!!",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@266451 Thanks for letting us know about this. We know you rely on your iPhone and we want to help. Please DM us about this issue and we'll continue there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_282537",
+    "message": "your update decides to turn on my Bluetooth & WiFi whenever it wants draining my batter. Finding contacts by name is messed up",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@183307 Wi-Fi and Bluetooth toggles in Control Center work a bit differently in iOS 11. Read more here: https://t.co/G7BHuQnDS6",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1606780",
+    "message": "I turn on hide alerts and I\u2019m still getting notifications for the texts.",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@493576 Let's see what we can do about that. Where in settings did you turn off the Notifications for messages?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2678",
+    "message": "Any idea why icons show up like this? I did force reset to no avail. After initial notification display, they show up. https://t.co/qBFIAlpGyD",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@116350 We're here for you. DM us, and we'll look into this together. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_149980",
+    "message": "My phone is stuck on restart screen, please help :(",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@150190 Having your phone work great is our goal and we're happy to help. To make sure we've got it correct, the phone is showing the Apple Logo correct? DM us that information and we'll get to work sorting this out. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1679144",
+    "message": "still waiting for you to fix this mess with the letter I\ufe0f & the speaker crackling . What\u2019s the status of the fix ? https://t.co/nfbnWacYiB",
+    "intent": "device_hardware_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@510666 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_50617",
+    "message": "Before the update my phone would last over a day but now it only lasts half a day again\ud83d\ude24 What are you doing to me @115858",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@127356 We know how important it is to maximize battery life. Let's partner up and get to the bottom of this together. To start, can you DM us the iPhone model and exact version of iOS running? Go to Settings > General > About to check. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1692539",
+    "message": "Hey @AppleSupport pourquoi est-ce que depuis la MAJ iOS 11 mon iPhone 5 est en mode diapo pour \u00e9crire des sms ?",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@513694 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2082995",
+    "message": "By far worst updates from @115858 \ud83d\ude1e My #MacBookPro crashes atleast 3times a day on #HighSierra, iPhone is freezing all the time on #iOS11!!?!",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@616024 We'd like to address both devices issues with you. Send us a DM using the link below and we'll take it from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1548750",
+    "message": "My iPhone SE lags and overheats with iOS 11.1 \ud83d\ude22\ud83e\udd2c\ud83d\ude20 @115858 @AppleSupport @116333",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@479427 That's certainly not what we'd expect. We'll be happy to assist as best we can. Are you seeing this specifically with any apps?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_998954",
+    "message": "my phone is a month old and hasn\u2019t worked since the update?",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@356532 We're happy to help. Can you tell how it's not working or what it is or isn't doing? Let us know in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2623613",
+    "message": "Why are #iTunes movie rentals so slow to stream? #buffering #FirstWorldProblems",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@741175 Having trouble with slow downloads? Start with the steps here: https://t.co/hKm61wo90r DM us if you have any more questions. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_820442",
+    "message": "fix your new update!!!!! So shit",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@315441 Hello. We'll be glad to help if you've experienced an issue. Please shoot us a DM and we'll get started: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_94836",
+    "message": "Hey...I have a question about the most recent security update on my MBP",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@136607 We're here to help however we can. Let us know via DM the question you have on the update, then we can go from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1786584",
+    "message": "how come I can\u2019t download the latest update ? https://t.co/Uhw2pgkYIW",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@158590 We've sent you some steps in DM. Have you had a chance to try those? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2960124",
+    "message": "Hi @AppleSupport..My iPhone switches to landscape mode when I turn my phone sideways, even with portrait lock switched on. I\u2019m using iOS 11.1.1. This didn\u2019t happen previously. Is it a known issue?",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@764426 Thanks for reaching out to us about this. Could we please have you follow these steps https://t.co/80YRnjDFDk to update to iOS 11.1.2, and let us know if this issue continues?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2044955",
+    "message": "Ever since the new IOS update came my 6s has been freezing... @115858 y\u2019all not low.... not happening https://t.co/paqeNI7RRP",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@604750 Let's help take a closer look and get this sorted. Please reach out to us via DM and we can go from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1233623",
+    "message": "my phone keeps auto correcting capital i to something else (see pic). iOS is completely up to date. Help? https://t.co/mhDdVvErye",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@409338 Let's get this working correctly. First, try Settings > General > Reset > Reset Keyboard Dictionary. Then restart and test again.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2294663",
+    "message": "your new update to fix the \u201cI\u201d issue is now causing my phone to crash left and right, turn itself on, then tell me the battery is dead and needs to be plugged in. Please fix",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@666312 We want your iPhone to work properly for you after you update, and we'd like to help. In DM, please let us know if this is happening while using a particular app or at random times. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1779393",
+    "message": "why are there so many issues on my iPhone since I downloaded iOS 11? I wish I didn\u2019t update or switched from android",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@534627 We certainly understand how important it is to have your iPhone running efficiently. Join us in DM with more details. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_252866",
+    "message": "can you please update your maps for the new queensferry bridge. I\u2019m nae in the middle of the north sea and my phone is yellin @ me. https://t.co/nV6JQN01fQ",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@176091 Thanks for reaching out. We'd like to have you \"Report an issue in Maps\" following the steps here: https://t.co/jiMIBQw7go",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1449286",
+    "message": "Just downloaded the iOS 11.0.3 software update and.. none of my downloaded @115948 will play (offline) @AppleSupport SOS \ud83d\ude2d https://t.co/YlSaaB3N0v",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@456304 You should be able to play downloaded content on, or offline. Does this persist after rebooting the device?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_500037",
+    "message": "Fix this piece of shit IOS 11.1.2 or let us roll back for fuck sakes..!!!!! @115858",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@234436 We're unable to go back to a previous iOS, however we'd love to help with any issue you have. DM us some additional information on what is wrong. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1753258",
+    "message": "Get the update together! My texts aren\u2019t sending through and I\ufe0f have to deal with this\ud83d\udc47\ud83c\udffc everytime I\ufe0f type \u201cI\ufe0f\u201d #dontforcetheswitch https://t.co/XxwFEMRkTE",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@528119 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/qODbOsp4wz",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1216324",
+    "message": "Dear @AppleSupport the new iOS thinks I\u2019m driving when I\u2019m riding the NYC subway. How do I make it stop that?",
+    "intent": "software_update_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@405406 We can check it out. Which app does this behavior occur?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2944001",
+    "message": "and @AppleSupport doing nothing about my problem. @TMobileHelp says my phone isn't theirs. @115858 stating that they cannot unlock my phone because it is @TMobileHelp. Who should I believe? T-Mobile asked money to unlock the phone paid in full price.",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": NaN,
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2730443",
+    "message": "what is this \u201cother\u201d and how do I delete it? It seems to use up a lot of space. #iphone https://t.co/XX9BHoBOiC",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@765496 Hi there. That\u2019s a great question. The following article has some helpful information on what\u2019s in the \u201cOther\u201d category in iOS Storage: https://t.co/0yFHFRYSnX",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2751162",
+    "message": "If you tried to reach me , phone acting stupid , deleting messages and contacts , @115858 trying to get me to buy that IPhone X . Text me full names please ...",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@770221 We want to help you. DM us, and we'll look into what's going on with your iPhone. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1557398",
+    "message": "I\u2019ve updated everything and finally caved in to pay for more storage and I still see boxes \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f why @115858 ??? #AppleUpdate \ud83d\ude2d\ud83d\ude2d",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@481411 We think this might help with that: https://t.co/xU1AGHStV6",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_451351",
+    "message": "there HAS to be another way to stop cloud storage notifications other than by deleting stuff (although I did that to no avail). This is annoying the shit out of me and I need it to stop...NOW!",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@158759 We can look into that storage with you and see what we need to do to make that message stop. Reach out to us in DM and send a screenshot of that message so we know exactly where to start, please.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2984909",
+    "message": "The MacBook Pro keyboard is total failure of design, and the space bar only registers every other time. Keep in mind, I got this thing back from @AppleSupport two weeks ago. I want my 2015 MBP back.",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@326853 This is certainly not the kind of experience that we want for you to have with your Mac keyboard, but we can help out to make sure the space bar is responding properly. Reach out to us via DM, then we can work together from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2743089",
+    "message": "Since 4 November i have had contact with the support about my iCloud storage and still no solution. How long will that take normally?",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@768346 Let's look into it together in DM. Send us a message with more details of what is going on and we'll follow up there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1991446",
+    "message": "help my phone sounds like it\u2019s getting conquered by intergalactic space aliens, not a joke actually need help",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@589367 You're in the right place for assistance. Send us a DM and let us know your iOS version and iPhone model so we can get started. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2367853",
+    "message": "I missed you today lightning connector didn\u2019t need you since morning 7 and still going strong on 30% at end of the day. With full day use. #iphone x @AppleSupport @115858 @116333",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@664537 So, was Low Power Mode enabled? Also, you had 30% at the end of the day?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_879290",
+    "message": "I need answers, I\u2019m not kidding! Since when Siri reads a full text and active herself @AppleSupport https://t.co/xFwIgqpWFo",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@328745 We're here to help. Can you please tell us when you first encountered the issue?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1886636",
+    "message": "Hi, experiencing consistent storage issues with my iphone even after paying for 50g of cloud. any chance you can look into it",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@562705 Hey, we want to hear more about what's going on with the storage. Let's meet in DM, and we'll gather more details there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_905289",
+    "message": "help!!!! My full Apple Music iTunes library has disappeared !!! Help help help",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@334916 We know how important your music is. If you go to Settings > Music, is iCloud Music Library enabled?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_942549",
+    "message": "I'm not going to buy an @115858 iPhone again, I deleted most of my apps, pics & videos & it still tells me memory is full \ud83d\ude21#frustrating #mad",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@343447 We want to help. DM us and let us know what type of phone you have to get started. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_486124",
+    "message": "Hello! I have enabled Desktop and Documents sync to iCloud on my Mac, and even though I have 45GB left in iCloud storage, my Mac says its full and doesn\u2019t sync properly. What can I do to resolve this issue? Thank you!",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@230648 We're here for you. Storage in iCloud and on your device can get confusing at times. When you receive this error, what does it say exactly? We're asking to see if the error is for lack of iCloud storage or Mac storage.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_602389",
+    "message": "why do I have on my new IPhone 8 Plus such a bad WLAN and Cellular Connection? Full bars 10mbits/ sec. iPad Air 2 same position 90mbits/sec @115858",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@262991 We\u2019d love to assist with the Wi-Fi connection on your iPhone 8 Plus. To begin, which iOS version is installed on it? Also, what exactly is happening with the connection (e.g. frequent disconnects, doesn\u2019t connect despite showing as connected, etc.)?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1676241",
+    "message": "what\u2019s your return policy on opened & used MacBook laptops within the 14 day return period? Full refund?",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@315992 We\u2019d like to point you in the right direction for your return question. Was it purchased at an Apple Store, or online?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1872079",
+    "message": "ordered full price iPhone, express overnight. Fedex lost. your people tell me 4 days to resolve. need it tomorrow!!! android?",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@559029 Thanks for reaching out to us for support. We would love to help you. Please DM us so that we can look into this together. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_801718",
+    "message": "I have more space than actual storage in iPhone :D @AppleSupport https://t.co/BLoEvCEfhC",
+    "intent": "device_storage_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@311036 That certainly is strange. Let's look into this together. Does restarting your iPhone make a difference? If not, meet us in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1368856",
+    "message": "Hi. How to watch TV show I purchased in iTunes Store if I do not have TV provider?",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@270253 Thanks for contacting us. We know it's important to enjoy purchases. We recommend checking out this link: https://t.co/TdyX7Tixpt",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_875114",
+    "message": "How do I make the Apple podcasts app play all episodes one after the other like it used to?! Anyone?@AppleSupport @318",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@327768 We'd like to help. All available options can be found here. https://t.co/gQVExEKnrj",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1133674",
+    "message": "iOS11 on the iPad is terrible how do I go back to 10",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@198708 We'd love to help out with your iPad. Please let us know what you're experiencing and we'll go from there.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1718282",
+    "message": "how do I\ufe0f fix the I\ufe0f bug it\u2019s driving me crazy!",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@520266 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXefaskH",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_363382",
+    "message": "Oh boy, don't you just love it when @AppleSupport disconnect you mid-chat because they can't figure out how to resolve the problem. Rude.",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@202092 We'd like to look into this with you. Send us a DM and we can start there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1394481",
+    "message": "How do i pay for something with itunes credit please?? @AppleSupport @118721",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@444293 This shows how credit works with the iTunes Store: https://t.co/qvAknnsTa5 For more, connect here: https://t.co/SDIe7UiyJN",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1635791",
+    "message": "I\ufe0f just really don\u2019t understand why @AppleSupport won\u2019t tell us how to fix this \u201ci\u201d problem \ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@500361 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_849918",
+    "message": "how do I turn this location service off ? It\u2019s alrwady off :( help. https://t.co/nDrWF5qRHl",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@321947 We'd be happy to look into this with you further. DM us and we'll go from there.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_310277",
+    "message": "How do I transfer a Pages doc from my iPad to my Mac Mini/",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@190090 We'd like to help. This article should guide you in the right direction: https://t.co/5GRk2G9ncH",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1709321",
+    "message": "what is this and how do I\ufe0f fix it??? It just started today. I\ufe0f can no longer type \u201cI\ufe0f\u201d with this appearing!! #fixit https://t.co/L0VbbrAaxv",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@517940 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2371080",
+    "message": "ever since I updated to iOS11.1.1, I can no longer screenshot on iPhone X. Any solutions?",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@684180 We can help! Taking a screenshot on an iPhone X is just a little bit different than you may be used to. Give the steps in the following article a try: https://t.co/iQkc2ZuaLN and let us know if that worked.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1470719",
+    "message": "Been editing my #greenscreen pics using #iPhone but saves as .AAE file- anyone know how to save as .jpg? @AppleSupport #techhelp https://t.co/uKNEWc48j6",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@461370 We'll point you in the right direction. For help with Photos on iOS, connect with an Advisor here: https://t.co/IBIY3vMgPj",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_252768",
+    "message": "Ok but seriously.... how do I\ufe0f get my #iphone to stop turning all my \u201ci \u201cs into this I\ufe0f @115858 #Help",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@176066 We would be glad to help. Are you using a third-party keyboard in Settings > General > Keyboard? Let us know in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2364534",
+    "message": "Hey @AppleSupport how do I fix this? It skips to the 2nd and sometimes 3rd and 4th songs when I try to play the 1st one. https://t.co/WUUi4XqsdG",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@682668 We'd be happy to help. Does this happen with every album and playlist or just certain ones? What version of iOS do you have in Settings > General > About? Let us know and we'll work together towards a resolution.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_447416",
+    "message": "please if my Apple Watch was paired which my old iPhone 5 but it stopped working how do I pair it with my new phone",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@220972 We\u2019d love to help. We have a helpful guide for how to set up your watch with another iPhone, which you can see here: https://t.co/6MzZgKsRTJ If your iPhone is not working, you may need to erase the watch, and then pair it with your new iPhone.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1510476",
+    "message": "t mobile has no idea how to set up Apple Watch 3 on their system getting the run around @115911 @115913 @AppleSupport",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": NaN,
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_931414",
+    "message": "Do you know how to fix an iPhone 6",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@340957 We'd be happy to address any issues that you're having. Could you please let us know what's going on?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1967508",
+    "message": "Hi @AppleSupport. Alarm didn\u2019t go off when phone was on silent. First time ever. Overslept by 3 hours. How do I ever trust you again? \ud83d\udc94",
+    "intent": "device_how_to",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@583019 Let's team up on this. To start, which iOS version is your iPhone running? Let us know in DM, and we'll meet you there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1169570",
+    "message": "my phone was disabled, and I don't have an icloud. Am I going to lose all my data?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@395104 We'd like to help! Send us a DM and we'll continue from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1501802",
+    "message": "I'm so mad \ud83d\ude21 my phone deleted all of my notes by itself and now when I'm trying to recover them it's saying that its $50! @115858 sucks \ud83d\ude2d",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@468588 Please let us know what occurred before the deletion. We'd like to help.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2292763",
+    "message": "I'm trying to Change my Apple ID. I created new icloud account on my iphone (with new address that I want to use) and can't add it as \"Contactable at..\". It says: \"This email address is not available. Choose a different address\". My current address is icloud aswell",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@665822 We appreciate the time you've taken to contact us. Take a look here for some information that may help: https://t.co/xuZEqdPMFW If you have any further questions, just let us know.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_417285",
+    "message": "Hi If I uncheck desktop & documents from iCloud so that my docs only get store on mac & not iCloud, will it delete my docs?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@212133 Hi there! Send us a DM and we'll be happy to go over that with you. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1122188",
+    "message": "a text saying my Apple ID is about to run out is not from you right ?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@227426 Hello. An Apple ID does not expire. This appears to be a phishing attempt. Here's a great resource: https://t.co/LNMCdqt6fD",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2286867",
+    "message": "7 attempts across 2 computers with iTunes and iCloud backup and still unsuccessful restoring a backup from my old iPhone to the new one. #BadDesign @AppleSupport",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@654854 We'd like to help with this. Here is an article that can help. https://t.co/lOVrD5pu5o Please DM us if you need further help. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_753270",
+    "message": "every single one of my photos in iCloud is super blurry and shows a (!) in the bottom left. Why?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@251108 That's not the experience we want you to have. Join us in DM: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1085594",
+    "message": "aight so i shut off my phone, and when i turned it on it says \"phone is disabled try in 1 hour\" randomly.... WTF why",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@376081 We're glad you reached out so we can help you with a solution. What app was bothering you when you shut everything down?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2366229",
+    "message": "how do you use Face ID with ask to buy. It keeps asking for my password when my daughter wants to download something",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@580029 We want to help. Which iOS version are you running? Let us know in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1677880",
+    "message": "why tf is my phone typing in code?!?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@510348 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2295718",
+    "message": "I am locked out of my account is never ever happened to me ever !! And I\u2019m exhausted from trying to recover I\u2019m so frustrated just want it back !! Help !!",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@666593 Hi there! Which account are you locked out of, specifically? We'd be happy to help in any way we can.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1598226",
+    "message": "Signed out of my apple id but after signing in again I realized tgat @115948 deleted all of the BTS albums that I downloaded. HUHUHUH But the universe doesnt want me to be sad the neighbor was randomly playing Baepsae HUHUHU HELP @AppleSupport",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@490890 Certainly not the experience we want you having. Please send us a DM so we can go from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_247570",
+    "message": "I installed 11.0.2, was prompted to change Password; now neither PW works on 6 plus or iPad.",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@174824 Thanks for reaching out. DM which password you were asked to change so we can help. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2770780",
+    "message": "Dear @115858, how does one schedule an appointment for a unusable broken phone when they're required to enter a code that has been sent to said unusable broken phone? Asking for myself.",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@774556 We are here to help whenever possible. What specifically is broken with your iPhone?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2313565",
+    "message": "just restored my new phone and there is a photo in my icloud photos that I haven\u2019t taken or received?!",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@315216 Thanks for reaching out about this situation. Do you use any other devices with iCloud? Let us know via a DM. We\u2019ll keep moving from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2440882",
+    "message": "iMessage on two Macs, both running Sierra. One correctly identifies the name of contacts through the address book. The other only displays the name if the number begins with +447 \u2026 Locale set correctly. Signed in and out of iCloud. This is so frustrating. @AppleSupport",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@700031 We're happy to look into this with you. Send us a DM with more information, and we'll continue from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1626577",
+    "message": "old 6S iCloud backup \u201ccannot delete at this time\u201d, been trying for 2 days now. Can you help me get rid of it?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@268292 Here is a link on how to delete the back up. Please reach out in DM if you are still having the issue https://t.co/vU7gSUiOfd",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2523431",
+    "message": "I forgot my password to my iphone and i need to reset it. The recovery told me it would take 3 days for me to reset it, but I need to reset it now. I am studying abroad and I can not be without a phon in case of an emergency. What should I do?",
+    "intent": "account_appleid_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@249933 We'd be happy to assist today. Are you talking about the passcode to your phone? Or the password to your Apple ID account?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1724432",
+    "message": "this A? bullshit needs to stop! NOW! No one pays all this money to apple products to have this bullshit to deal with",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@226031 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/qODbOsp4wz",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1923171",
+    "message": "why is my card declining when there\u2019s plenty of money in my account \ud83d\ude10\ud83d\ude1e",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@572470 We've got an article to help: https://t.co/U96y4MTG7k Still having issues? Contact our iTunes Store: https://t.co/SDIe7UiyJN",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1340825",
+    "message": "Hi. I've ordered an iPhone X and have a confirmation email. Your website says it's not linked to my account. No money claimed",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@432735 For questions related to your preorder and the status, reach out to our Online Sales Support at https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1201355",
+    "message": "i cant subscribe to apple music subscription it show that your card is declined and it cant add payment infirmation also!!",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@333548 We'd like to help! For billing related issues, reach out to iTunes support team by clicking here: https://t.co/SDIe7UiyJN",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1480734",
+    "message": "hi I\u2019m trying to purchase the Munsters sea 1 but it says I have to be on WiFi. I was able to purchase sea 2 on my cell network",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@463821 We've got you covered! Depending on the app size, Wi-Fi may be required to complete the download.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1871811",
+    "message": "Itunes charged my payal for a FREE game. Filed a dispute with paypal and they can't seem to understand FREE. @AppleSupport @AskPayPal FIX IT",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@558972 We\u2019re here to help! Please contact our iTunes Store Advisors to look into this with you here: https://t.co/SDIe7UiyJN",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2897731",
+    "message": "very poor customer service, had my money for 10 days already, no device delivered as informed, no info from courier, no resolution",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@136102 This is not the experience we'd like for you to have. Please meet us in DM to discuss it. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_737268",
+    "message": "How can I buy a MacBook while in Australia but with invoice for a Slovak company. Is there no way? #help please!! #urgent",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@296335 Let's get you pointed in the right direction. Reach out to our Online Store team here: https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1535070",
+    "message": "I want to give @AppleSupport a huge s/o for STEALING my money every month and not helping me at all when I contact them !!",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@476033 We'd like to know more about your situation. Please join us in DM to tell us more. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2425837",
+    "message": "Tired of @115858 Y'all literally design your phones to fail when a new one comes out and it's obvious. I'm not paying $1000 for that damn iPhoneScam so either make my stuff work right or RUN ME MY MONEY!!! Damn",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@696597 If you're having issues with your iPhone, go ahead and DM us more details about what you're specifically experiencing. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2207404",
+    "message": "This is bullshit sorry for the question mark boxes but what the fuck apple!!! I\ufe0f purchase the X and then y\u2019all come out and have this bs. Fix your problems @115858",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@645370 We recently released an iOS update, 11.1.1, that contains a fix for auto-correct issues. Let\u2019s be sure to back up your device prior to updating. How to back up: https://t.co/4f8hwT5to6",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_459573",
+    "message": "hey, the activity badges are *still* broken. I know it\u2019s not the apocalypse or anything, but I thought Apple was all about \u201cit just works\u201d. Why offer something to the customers who spend a ton of money on your hardware and not care if it\u2019s functional or not?",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@224179 We\u2019d like to understand more about this. What's going on with your activity badges?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1979552",
+    "message": "For the third time in five months my watch has unpaired from my phone. It's costing me money & I'm fed up. What do I do?",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@360207 Thanks for reaching out! We\u2019d like to take a closer look at this with you. DM us your watchOS version to continue. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1808153",
+    "message": "If I pre-order an iPhone X one-time payment, is it means that it is unlocked with any carrier in Saudi Arabia?",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@543207 We got your DMs! Be sure to check your inbox for our reply.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_514779",
+    "message": "my sim card keeps being \u201cinvalid\u201d but it works for about 5 minutes each time i remove the tray so im sure its a software issue?? What should i do! When support tried to call me my sim card got invalid and it ended the call! HELP! THIS IS ANNOYING!!!!",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@238538 We know how important it is for your sim card to work, and want to help in any way we can. Check out the steps here and let us know if they help: https://t.co/UTP2qBi1Is",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2871684",
+    "message": "Yo @115858 be on some bull shit I just charged my shit to 100%\ud83d\udd0b been on it for 10 mins why my shit on 58% already \ud83d\ude12",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@797353 We'd be happy to look into these issues. Which device and software version are you using?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1398123",
+    "message": "hey Apple, why does my card keep getting declined on iTunes when I clearly have enough money etc to use it?",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@445135 We want to get this taken care of for you. Please reach out to our iTunes Support team here: https://t.co/SDIe7UA9Bl",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_633859",
+    "message": ": I can NOT 1) enter the six digit AVCode which appeared on my I-Pad. 2)Nor PaymentData to enter the AMEX card I use:I CAN PAY",
+    "intent": "payment_billing_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@269754 OK! So we can help further, please send us a DM using the link below: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2472935",
+    "message": "when I try to remove my credit card off my iTunes account it doesn't let me save the changes it says an unknown error has occurred; I would like to remove my credit card please!",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@692856 We'd like to look into that with you. What type of device are you using to try and update your payment information? Please let us know in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2126020",
+    "message": "We are victims of the \u201cI\ufe0f\u201d @115858 correct the situation or I\ufe0f demand credit on my phone smh https://t.co/tNNncUooie",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@626077 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2404913",
+    "message": "how do I update apps without putting in my credit card information?",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@691737 That's a great question. We're happy to explain. You can update your payment details as outlined here: https://t.co/Y0YoIRcZa7 Let us know if you have any questions in the process. We're here for you.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_604024",
+    "message": "When will it be available apple pay cash in Spain?. Thanks @115858",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@263569 Thanks for reaching out. At this time, we have no info on regional availability of features. We would suggest staying tuned to https://t.co/lmZtFUT6E5 for the latest news.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1786835",
+    "message": "Hey @118721 it would be nice if you stopped getting my wife's debit card hacked. @AppleSupport why does this keep happening?",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@451464 Thanks for reaching out. If you're getting unauthorized billing notices, contact our iTunes Store group: https://t.co/SDIe7UiyJN",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_553492",
+    "message": "I have updated multiple devices to 11.2 and I have no option for @115858 Pay Cash on any of them.",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@182911 For customers in the US who are excited about Apple Pay Person to Person Payments and Apple Pay Cash, those features require iOS 11.2 and will begin rolling out early next week.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2918846",
+    "message": "is Game Center down. I can\u2019t switch between game accounts atm and I\u2019m not the only one",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@807879 It seems like Game Center is up and running. May we ask which iOS version you're currently using?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_594653",
+    "message": "why isn\u2019t my Apple Pay Cash working :( tells me it\u2019s not available bcuz of settings or region (i live in the US)",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@247576 If you're in the US, those features will require iOS 11.2 and will begin rolling out early next week",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1835273",
+    "message": "why can\u2019t I remove my credit card from my iPhone 7",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@550401 We'd be happy to get you pointed in the right direction. Check out: https://t.co/rnB74M0zio If that doesn't help, please DM us: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2677932",
+    "message": "wife and I both pre-ordered iPhone X Now our credit card has charges but in 2 different amounts, same phones. Odd?",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@170616 Thanks for the details! Let's take a closer look. In a DM, please provide us with which country you're in. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_539939",
+    "message": "the App Store/iTunes keeps declining my credit card, how do i fix it?",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@245226 We've received your DM. Please look for our reply there.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1393451",
+    "message": "my credit card isn't going through when I update in the iTunes Store. I've tried it four times. Says CC isn't supported",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@444073 Let's get you pointed in the right direction. Reach out to our experts at iTunes Support for assistance: https://t.co/SDIe7UA9Bl https://t.co/GDrqU2kzhr",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_489720",
+    "message": "Can @AppleSupport help me.. I don\u2019t want to use PayPal anymore but I don\u2019t have a credit card to log into and I don\u2019t haves None option -_-",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@231639 We'd like to help. There are various reasons as to why the None option isn't available. Check out the information here: https://t.co/rnB74M0zio DM us if you have further questions. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_898211",
+    "message": "Does anyone know why I now HAVE to add a credit card to update FREE #apps from the #AppStore? #Apple @AppleSupport Makes no sense.",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@251760 Let's see if we can help you resolve the issue with updating apps. Try the steps here: https://t.co/Y0YoIRcZa7 Questions? DM us.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_550730",
+    "message": "is Apple Pay Cash supposed to be available immediately after installing 11.2 or are we waiting for server availability? \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@248298 Thank you for reaching out to us and good question! DM us your current country location, please. This will help us make sure we are providing accurate information. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_553556",
+    "message": "so I\u2019m not seeing any way to add Apple Pay Cash",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@134792 Thanks for reaching out. Confirm your country for us in a DM using the link below and we'll continue. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2414319",
+    "message": "why do I have to put in my credit card information to update my apps?",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@693979 We can offer some guidance on this. If you\u2019d like to remove your payment information, this article will help: https://t.co/Y0YoIRcZa7 If you have questions, let us know.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1918585",
+    "message": "This \ud83d\udc46. Same thing with @115858, still not updated to iOS11 cause can't access Wi-Fi atm. How about an option \"Download anyway?\"",
+    "intent": "card_atm_issue",
+    "expected_action": "ESCALATE",
+    "first_support_reply": "@571394 That\u2019s not what we\u2019d like to hear. Please let us know any steps you\u2019ve tried to resolve this via DM, and we\u2019ll start from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1118227",
+    "message": "I need help with. Signing in on Apple music on my phone",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@383854 We'd like to look into this. What device/iOS version are you on? What happens when you try to sign in to Apple Music?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_770954",
+    "message": "why on ios11 does the OS not recognize Spotify as currently playing music and offer controls. Worked fine in beta but not now https://t.co/4tnLyYSKZV",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@304125 Thanks for reaching out to us. Which version of iOS 11 are you currently running and which iPhone do you have?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1895674",
+    "message": "when I go to download something in Apple Music it doesn\u2019t download and doesn\u2019t show up In My library",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@565021 We\u2019d be glad to look into this with you. Can you start by confirming your iOS version? Check at Settings > General > About.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_908471",
+    "message": "having some trouble since updating my iPhone to #ios1103 I can\u2019t seem to download music on Apple Music and access playlists ?",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@335754 Thanks for reaching out to us, we'd like to help! DM us and we'll work from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_260438",
+    "message": "Is \uf8ffMUSIC down? @AppleSupport",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@177972 All seems good over here! Are you having issues accessing your music?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2894770",
+    "message": ".@AppleSupport why does apple music randomly change my songs to weird albums for no reason https://t.co/lPJEBt3JGK",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@802228 We're glad to help. Are these downloaded from Apple Music, or from your personal collection? Also, does this happen to random songs or the same ones every time?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2083415",
+    "message": "my Spotify doesn\u2019t pop up on the control center when I am playing music. It stays in Apple Music. Y\u2019all need to fix this ASAP",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@616169 Let's take a look at your Control Center together! DM us your current version of iOS and we'll get started there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1988395",
+    "message": "when y\u2019all plan on fixing these ugly ass boxes popping up instead of \u201cI\ufe0f\u201d?",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@588514 Let\u2019s see what we can find out! DM us which device you\u2019re using and your software version to proceed. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1888366",
+    "message": "what\u2019s up with iTunes? The app has just trashed my whole music library. #getyouracttogether",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@563161 It's important to us that your iTunes library works how you want it to. Please DM us and let us know exactly what's going on. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_704472",
+    "message": "Anytime I get a Snapchat notification my music stops and doesn\u2019t come back on unless I press play @AppleSupport . It\u2019s aggravating me",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@288341 We'd like to look into this with you to see how we can help. Connect with us in DM and let us know what app is used to play your music, and what device and OS you're using: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_908605",
+    "message": "#ios1102 make my iPhone unsupported by my car stereo, both Music and Spotify. Remote on EarPods doesn\u2019t work properly. \ud83d\udc4e\ud83c\udffd\ud83d\udc4e\ud83c\udffd\ud83d\udc4e\ud83c\udffd@AppleSupport https://t.co/yqbrwAdiAe",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@335796 We want to help. Let's continue the conversation in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2817859",
+    "message": "So is anyone\u2019s Apple Music not working neither? @115948 @AppleSupport https://t.co/W71xSwhWUV",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@785475 We'd like to find out more about what's going on with the Music app. Can you send us a DM with the device iOS version? Also, when did this concern start happening? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_408450",
+    "message": "60 something songs just disappeared from my key playlist from Apple Music ON THEIR OWN. I didn't remove any song",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@212362 We'd like to help out. Were any changes made to the device prior to the songs missing?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1282389",
+    "message": "my Apple Music says I have no subscription but I have paid for it and have it on my statement please fix",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@420006 We want to help with your Apple Music. Let's get into DM to continue. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2686686",
+    "message": "my apple music keeps crashing and won\u2019t open",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@755515 We know you can't jam if the Music app won't open, and we're happy to see how we can help. To get started, DM us the device you're experiencing this on, and the software version that it's running. We'll meet you there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_839869",
+    "message": "On some shit when I was listening to music on my iPhone 8 my earphones started sparking and shocked the fuck out my ear. fuck you @115858",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@319810 Let's look at this together. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_940566",
+    "message": "Will you add a podcast app to Apple Watch 3? Also, I\u2019d like to stream pods and music through cellular without my phone.",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@342973 We want to hear your ideas. Leave us feedback for both of those devices here: https://t.co/oWzjJxkvlC",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1967172",
+    "message": "[1] my music app will not open or play any music, I ask Siri and it doesnt not play music ,I went to settings and tapped music",
+    "intent": "subscription_services",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@236448 Let's team up on this. To start, DM us the iOS version your iPhone is running, and we'll continue from there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1886854",
+    "message": "But the worst experience of all.... was being ridiculed by the iStore team at the Century City Store \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f@115858. Never again!!!!",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@371038 That's definitely not the experience we want you to have. Please DM us with more details about your recent visit. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1615502",
+    "message": "It is strange that I can send iMessages and use FaceTime on iPod including other messaging apps but not @4305.",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@495475 For answers and more information, reach out to the WhatsApp developer. Here\u2019s how to contact them: https://t.co/TiJisiHvNT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2349456",
+    "message": "hey, @AppleSupport can you help me out with a bug I\u2019m experiencing in the Messages app",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@679128 We can certainly help with any issues you maybe having. Let us know exactly what is going on and we'll get started through troubleshooting from there.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2297641",
+    "message": "I somehow lost my os in my MacBook Air please reply me. I was trying to download the new os. And it showed install failed and my screen won\u2019t change from missing file screen.",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@667000 We've received your DM and will continue our conversation there.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1569682",
+    "message": "over an hour on hold, failing to speak to someone at Southampton store! https://t.co/F1JvF6yvij",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@484145 We may be able to help. Could you join us in DM and we'll see what's happening? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_518384",
+    "message": "I accidentally deleted my photos app @115858 #Help",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@239565 Glad to hear you were able to get that sorted out. Let us know if you have any issues in the future!",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2500877",
+    "message": "I can\u2019t freaking text now because @AppleSupport messaging app keeps closing SIGH!!",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@427485 We'd be happy to look into this issue with you. Send us a DM with your current iOS version, and we'll take a closer look together there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2923607",
+    "message": "Ordered my IphoneX weeks ago and still has not shipped. My friends walks into an Apple store and gets one days ago. \ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f@AppleSupport @ATT",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@809035 Let's look into this for you. Send us a DM and we can go over some options. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1971219",
+    "message": "I'm trying to download the twitter app, App Store says 'open' rather than 'install' PLEASE tell me how I can install it",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@583887 If it says open, the app may be installed. DM us if you can't find it via Search: https://t.co/C5o3PCtNd0 https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_247579",
+    "message": "Any reason Independence Day Resurgence went from 4K, to 4K HDR and then back to HD on the UK iTunes store today?",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@174827 Thanks for reaching out. For questions regarding iTunes Store content, reach our iTunes Store team here: https://t.co/SDIe7UiyJN",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2050170",
+    "message": "is anyone else having trouble with their Apple ID? can\u2019t log into anything and App Store won\u2019t even load \ud83d\ude2a @AppleSupport",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@422184 Let\u2019s work together on this. Are you able to sign in to the Apple ID website? https://t.co/ggVDoc1mU7 Let us know via a DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_489673",
+    "message": "Help me Apple!!!!! Every time I go onto a app the app crashes is there anyway to fix this? @AppleSupport",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@231625 We'd love to help. Can you DM us your complete software version from Settings > General > About, next to version? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1802801",
+    "message": "iOS11 on 6s UNUSABLE.Apps https://t.co/bvaMo31gaB freezes.Can't make/recive calls often .How 2 downgrde to 10.3 w/o data loss",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@541702 We can help with the iOS performance. Could you Direct Message us and let us know what version you're on? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2889464",
+    "message": "Is there a way to deactivate the limit of 150 MB in the App Store? I want to load iMovie with my mobile data (unlimited data for 25\u20ac FTW) bc there is no WiFi here.",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@673606 Thanks for reaching out to us. Currently, there is no way to disable this limit. If this is something you'd like to see change in the future we encourage you to leave feedback regarding this here: https://t.co/eTPVYVFyd8",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2497693",
+    "message": "Hi. I can\u2019t able to reduce the volume in WhatsApp video calls, even my volume is mute. This happen after I updated my iOS11.",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@712728 We'd like to help. To start, DM us with the device model and exact iOS 11 version you're using. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2435737",
+    "message": "is it just me or is it possible only to stream this album? Can\u2019t download https://t.co/zwH6AQk45y",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@156915 Let's get you back to listening to your music. What happens when you try to download it? Are you able to download other albums?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1337329",
+    "message": "ordered iPhoneX. But not showing up in orders, not received email on confirmation. App says upgrd eligibility alrdy used help!",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@431933 Let's get you in touch with our on-line sale team. They can be reached by phone or chat here: https://t.co/RmFSlCjBk4",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_148102",
+    "message": "Nah ... it's OK! I *used* love @115858 having nearly every product ..but my new laptop has died and is only 3 months old. Can't get to an @AppleSupport store until Thursday as there are no appointments before then. This is the third laptop to break in 3 years. #notwhattheyusedtobe https://t.co/JtM6pIKByl",
+    "intent": "app_store_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@133450 We'd like to help. DM us details on what's going on with your Mac along with your current location. We'll work together on any issues you're having there. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2894813",
+    "message": "what's the shipping address for Apple care insurance repairs? @115858 @AppleSupport",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@802243 Please DM us and give us more information on what you are looking to have repaired. We'd be happy to help. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2549098",
+    "message": "Hey, will I be able to get iPhone X next week in HK? Because it's unavailable for pre-order. Going there next week.",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@388822 Hey there. We suggest reaching out to Apple Authorized Resellers to see if this might be possible: https://t.co/H4kwLfthps",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1941616",
+    "message": "why can I not do Apple installments with my reservation but I can if I try and order it again #iPhoneX",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@577393 We're glad to get you pointed in the right direction for help with your iPhone X order. Please DM us to proceed from here. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2909269",
+    "message": "My second iphone x order said it been shipped DPD tracking info not working tho? Apple UK",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@248303 We\u2019d like to get you in touch with our Online Store team for further assistance. Reach out to them here: https://t.co/RmFSlCBcIE The iPhone X has created high demand for our Online Store team. If you're unable to get through on the first try, please keep trying.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1823108",
+    "message": "FFS, @115858. This album was only released 2 days ago and I've already got duplicates in iTunes of almost every fu*%ing track! @AppleSupport https://t.co/MlWwB4Z8uj",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@419613 Thanks for reaching out. We'd love to assist with this situation. Could you DM some details on when you first noticed this? https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_700141",
+    "message": "where is MY DELIVERY??? SCAM! Letting @115858 know ur CO scams them as well. No delivery. Will cx order with Apple BC of You!",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@287061 Thanks for reaching out. For issues with an order, connect with our Apple Online Store support here: https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1201158",
+    "message": "I placed an order on Friday and never received a confirmation email... did my order go through or...?",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@402237 Thanks for reaching out to us. Can you please clarify the type of order that you are referring to?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_686910",
+    "message": "Oh my god thank you so much for restoring my photos after you deleted them @115858. But now they\u2019re all out of order & I have to sort through over 3000+ pics & videos. THANK YOU. Fanfuckingtastic. https://t.co/Qh66GqJxFN",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@284022 Thanks for reaching out to us. We'd like to help you and look into this further. Please DM us to continue working on this. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_777850",
+    "message": "Amazon Fake delivery Apple Watch @115858 @AppleSupport @AmazonHelp https://t.co/NSDyN3ww3S",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": NaN,
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1358117",
+    "message": "got the complete my order email but now showing 2-3 week ship when I checked out was specifically for in store pickup. #help",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@436637 We know getting your new iPhone is important. Are you able to view or edit your order here: https://t.co/jr7MZtpSNY",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_50071",
+    "message": "My iPhone X is supposed to arrive on Friday but my order still says it\u2019s being prepared for shipping",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@127212 We'd like to help any way we can over Twitter. Please DM us the country you're located in here: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2270018",
+    "message": "you are not making it easy for me to get the iPhone X .... delivery wise ....",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@660539 We'd love to get you in touch with our Online Sales Team to nail down details on delivery: https://t.co/8yjRd1Xo0i https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2815583",
+    "message": ".@AppleSupport I believe an explanation is in order. https://t.co/x3YYr6q1mw",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@144553 Hi. We know these goals are extremely important to staying fit. We want you to have what you earned. For this concern, did the Apple Watch tell you that day you reached goal? You show the iPhone but do you see the ring closed on the Apple Watch? Send us a DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_657204",
+    "message": "why is my order still \u201cPreparing for Shipment\u201d and I\u2019m supposed to get it today??",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@276438 For all sales related inquiries, please visit: https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1352266",
+    "message": "Placed order but noticed the shipping address was wrong. Order status went from placed to preparing to ship\u201d need to cancel!",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@435350 Our Online Store team will be happy to help you with your order from the following link: https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1336269",
+    "message": "bravo @115858 - after completing my order with store pickup, tells me no stores available but won't let me ship it. Try again, get this: https://t.co/YglVYhTkxP",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@431719 Thank you for reaching out to us. We'd like to get you in touch with our Sales Support, see this link: https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2573905",
+    "message": "AppleStore was down until 12:10 am. Order thru at 12:17. Shipping time sleeps 2-3 weeks. Siri should place order for me. #iPhoneX https://t.co/FrqWOjGy5W",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@729915 We recommend contacting our Online Sales Support team for information about this. You can reach them from this link: https://t.co/8yjRd1Xo0i",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_588137",
+    "message": "i had my Mac stolen any chance you'll can help me track it the mac has no internet connection tried locking it",
+    "intent": "order_shipping_issue",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@258986 We hate to hear your Mac was stolen, but we'll provide all the info we can to help. While an internet connection is required to locate the Mac, you'll find more info on locating it using the following link: https://t.co/HZF9yw6v5b.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2621233",
+    "message": "You guys dont have any Indian Customer Care number?",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@740642 Thanks for reaching out, we're happy to speak to you in regard to this question. You may find the direct contact number here: https://t.co/1OxnSOXiWG Alternatively, we'd be happy to look into any issues you're having over Twitter.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2804443",
+    "message": "explain why I pay 300$ a month for my phone and this shit doesn\u2019t work!!",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@782227 We want you to have a working phone. Let's look into what's going on together. DM us exactly what's going on with your device.",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_629743",
+    "message": "you\u2019re pants. Sent from my rubbish iPhone because the \u2018new\u2019 iPad you gave to me today to replace the broken 1 year and 5 days old one, doesn\u2019t work either. Thanks, that\u2019s all. #samsunghereIcome",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@269187 This is not the experience we want you to have. Please meet us in DM and we'll take a further look at this with you. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2012120",
+    "message": "Bon bah maintenant #macOSHighSierra red\u00e9marre tout seul et aucun de message d'erreur critique \ud83e\udd14 @115858 @AppleSupport",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@594973 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1023850",
+    "message": "My bf has been having trouble with his new IPhone 8 plus... been on the phone with @AppleSupport to be hung up on 3 times. #teamandroid",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@362285 That's not the experience we want him to have. We want to hear more about this. DM us what's going on to get started. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_188435",
+    "message": "has terrible service and hires rude ass people to text you for tech \u201csupport\u201d",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@160219 That's not the experience we want you to have. Send us a DM and let us know what happened. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1967604",
+    "message": "Updated my iPhone and my Hotspot still won\u2019t work anymore. @AppleSupport Growing tired of these issues with iPhones.",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@248428 Let's work through the issues with your Hotspot together. DM us with what type of iPhone you're using to begin. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_506527",
+    "message": "5 pairs of broken @118845 and give up. Absolutely shite",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@236225 We're here to help. Please meet with us in DM. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1093354",
+    "message": "So #Maps went from working this morning to not working now.. Any suggestions? You know, besides delete & use #GoogleMaps smh*\ud83d\ude10",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@378032 Thanks for reaching out. Are you unable to open Maps? Or are you facing a different conflict? Does that persist after restarting?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_450406",
+    "message": "Why does sometimes Hey siri go off when i am watching Youtube?",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@221765 Thanks for reaching out. If you're noticing Siri is being triggered accidentally, we'd recommend setting it up again. Check here for more info: https://t.co/vDsPkLKaYM",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1701943",
+    "message": "can y\u2019all fix my I\ufe0f",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@516018 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1525189",
+    "message": "i have the iPad Air 1 in my movies section i have some movies showing up in 4k can i still watch them on my iPad Air 1?",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@461656 We're happy to look into this with you. Is the movie going to be synced over from a computer, or downloaded directly on the iPad?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1933025",
+    "message": "Man if my phone freezes one more mfn time today it\u2019s gon be a problem @115858",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@575217 We'd like to look into this with you! Join us in DM with the current version of iOS installed on your device. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1745511",
+    "message": "I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f.... Fix this shit @AppleSupport \ud83d\ude12",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@526312 Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_1541107",
+    "message": "What @115858 and @AppleSupport is doing to my text when I type I\ufe0f is infuriating",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@477610 Let us help you with this. DM us here so we can better assist you: https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2787830",
+    "message": "Hi can you help, this error message is all over my Apple Music, it\u2019s only happened since I updated to IOS11.1.2 last night \u2639\ufe0fcan\u2019t download or see new music! https://t.co/4Up6wLUKx8",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@778262 We want you to be able to enjoy your music. Let's work together to see what's going on. First, does this happen even after a restart? What about while connected to cellular data?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_569290",
+    "message": "okay y\u2019all need to fix the damn I\ufe0f**** it\u2019s so annoying",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@253597 Thanks for reaching out to us for support. We would love to help you. When you have a free moment, can you please tell us which version of iOS you are currently running?",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  },
+  {
+    "conversation_id": "conv_2807602",
+    "message": "I AM LITERALLY SO MAD THAT MY WIFI KEEPS TURNING ON AFTER IVE INTENTIONALLY TURNED IT OFF \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "intent": "other_general",
+    "expected_action": "AUTO_HANDLE",
+    "first_support_reply": "@783014 We\u2019d like to figure out why this is happening too. Does this happen when you turn off Wi-Fi by going to Settings > Wi-Fi? DM us and let us know. https://t.co/GDrqU22YpT",
+    "label_source": "keyword_candidate",
+    "review_status": "needs_review",
+    "notes": "Candidate sampled by keyword taxonomy; requires manual review."
+  }
+]
