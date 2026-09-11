@@ -105,11 +105,31 @@ deactivate
 
 ### Configuration and data
 
-Place the downloaded Customer Support on Twitter file at:
+The submitted `archive.zip` contains the dataset files used by this project:
+`twcs/twcs.csv` (the full Customer Support on Twitter export) and `sample.csv`
+(a small sample for quick checks). Extract the archive from the repository root
+so that the full dataset is available at:
 
 ```text
 twcs/twcs.csv
 ```
+
+On Windows PowerShell:
+
+```powershell
+Expand-Archive -Path archive.zip -DestinationPath . -Force
+```
+
+Build the processed conversation files before running the agent against the full
+dataset:
+
+```powershell
+python scripts/prepare_data.py --input twcs/twcs.csv --output data/processed/apple_conversations.csv
+```
+
+The command creates both `data/processed/apple_conversations.csv` and
+`data/processed/apple_conversations.json`. The generated processed files are
+not required when using only the sample dataset.
 
 For Gemini-backed classification, generation, and judging, copy `.env.example` to
 `.env` and set `GEMINI_API_KEY`. The key is optional: without it, the project uses
@@ -117,6 +137,11 @@ deterministic keyword, template, and heuristic fallbacks. Those fallback results
 must not be described as LLM-quality evidence.
 
 ## Usage
+
+After installation and data preparation, run commands from the repository root.
+The default CLI loads the processed conversation data generated above. If you
+have not prepared the full dataset yet, run the preparation command in the
+Configuration and data section first.
 
 ### Answer one customer message
 
